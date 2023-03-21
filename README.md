@@ -1,5 +1,5 @@
 
-# We've got your back(end)! (Module 13 Challenge Columbia U)
+# Bloggy McBlogface (Module 14 Challenge Columbia U)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) 
 
 ## Description
@@ -42,7 +42,7 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
 
-The github repo is @ https://github.com/JDR8888/ 
+The github repo is @ https://github.com/JDR8888/bloggy-mcblogface 
 
 demo of the project:
 
